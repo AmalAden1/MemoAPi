@@ -10,6 +10,10 @@ using MemoAPi.Models;
 
 namespace MemoAPi.Controllers
 {
+
+    // Code Fist menetelmällä tehty Memo Rest Api Sovelluksella ja kontrollerin autogeneration !!
+
+
     [Route("api/[controller]")]
     [ApiController]
     public class MemosController : ControllerBase
